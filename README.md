@@ -1,2 +1,2 @@
 # COMP9021
-COMP9021 lecture slide,ass,quiz
+COMP9021  midterm,lecture slide,ass,quiz
